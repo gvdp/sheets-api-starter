@@ -1,0 +1,19 @@
+{
+  "name": "sheets-api-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gvdp/sheets-api-starter.git",
+  "author": "gvdp <vdputteglenn@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "BROWSER=none netlify dev"
+  },
+  "dependencies": {
+    "@netlify/functions": "3.0.0",
+    "sheets-as-an-api-functions": "0.3.0"
+  },
+  "volta": {
+    "node": "22.12.0",
+    "pnpm": "8.10.2"
+  }
+}
