@@ -9,7 +9,7 @@
     "start": "BROWSER=none netlify dev"
   },
   "dependencies": {
-    "@netlify/functions": "6.0.0",
+    "@netlify/functions": "6.0.2",
     "sheets-as-an-api-functions": "0.6.3"
   },
   "volta": {
